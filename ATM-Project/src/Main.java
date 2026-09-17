@@ -1,7 +1,7 @@
 // Project: ATM System (Java Console Application)
 // Created by Mohd Badar
 // Date: 6 September 2026
-// Integrated core banking features including balance retrieval, instant deposits, and secure cash withdrawals.
+// Integrated core banking features.
 
 
 import java.util.Scanner;
